@@ -1,1 +1,0 @@
-GIF for my portfolio
