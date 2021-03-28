@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ### UI/UX Design Tools
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 
+### My Git Hub Stats - From 2020
 <img src="https://github-readme-stats.vercel.app/api?username=feelthedimez&show_icons=true&count_private=true&theme=gotham&title_color=f3f4ed&text_color=fff&icon_color=f3f4ed">
 <br>
 
