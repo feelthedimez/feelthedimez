@@ -1,7 +1,9 @@
 # Welcome to feelthedimez SPACE
 
 ## ABOUT ME?
-I am a 20 year aspiring Full Stack developer, with professional knowledge in Graphic Design. I'm more into Web Dev & App Deve
+I am a 20 year aspiring Full Stack developer, with professional knowledge in Graphic Design. I'm more into Web Dev & App Dev.
+
+<img href="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
 
 ### Development Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=28527a)
