@@ -1,8 +1,20 @@
 # Welcome to feelthedimez SPACE
 
-# ABOUT ME?
-## I am a 20 year aspiring Full Stack developer, with professional knowledge in Graphic Design. I'm more into Web Dev & App Dev.
+## ABOUT ME?
+### I am a 20 year aspiring Full Stack developer, with professional knowledge in Graphic Design. I'm more into Web Dev & App Dev.
 
+## Currently Learning:
+- Java OOP with TDD
+- Django Framework
+
+## What I enjoy
+- Designing something that I'll code (UX/IU ➡️ Development)
+- Playing BattleGround Online Game (PUBGM: 🤖 @feelthedimez)
+- Rick & Morty Fanatic 📺
+- I LOVE MUSIC 🎹
+
+## Socials
+![Instagram](https://www.instagram.com/feelthedimez)
 
 ### Development Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=28527a)
