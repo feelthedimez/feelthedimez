@@ -28,7 +28,14 @@ Here are some ideas to get you started:
 ![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=3c415c)
 
 ### Framework Backend - (Still Learning)
-![Django](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=3c415c)
+![Django](https://img.shields.io/badge/-Django-grey?style=for-the-badge&logo=django&logoColor=white&labelColor=3c415c)
+
+### Design Tools
+![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=3c415c)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+
+### UI/UX Design Tools
+![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 
 <img src="https://github-readme-stats.vercel.app/api?username=feelthedimez&show_icons=true&count_private=true&theme=gotham&title_color=f3f4ed&text_color=fff&icon_color=f3f4ed">
 <br>
