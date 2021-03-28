@@ -13,6 +13,8 @@
 - Rick & Morty Fanatic 📺
 - I LOVE MUSIC 🎹
 
+<img hight="300" width="450" align="right" alt="GIF" src="https://github.com/feelthedimez/feelthedimez/blob/main/assets/sliding-chair-dev.gif">
+
 ## Socials
 ![Instagram](https://www.instagram.com/feelthedimez)
 
