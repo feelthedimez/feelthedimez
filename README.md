@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=feelthedimez&show_icons=true&count_private=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-https://github-readme-stats.vercel.app/api/top-langs/?username=feelthedimez&theme=radical&title_color=8E2DE2&text_color=fff
