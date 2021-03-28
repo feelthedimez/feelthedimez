@@ -3,7 +3,7 @@
 ## ABOUT ME?
 I am a 20 year aspiring Full Stack developer, with professional knowledge in Graphic Design. I'm more into Web Dev & App Dev.
 
-<img hight="400" width="500" alt="GIF" align="center" href="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img hight="400" width="500" alt="GIF" align="center" href="https://github.com/feelthedimez/feelthedimez/blob/main/master/assets/sliding-chair-dev.gif">
 
 ### Development Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=28527a)
