@@ -12,7 +12,7 @@
 
 ## What I enjoy
 - Designing something that I'll code (UX/IU ➡️ Development)
-- Playing BattleGround Online Game (PUBGM: 🤖 @feelthedimez)
+- Playing BattleGround Online Games (PUBGM: 🤖 @feelthedimez)
 - Rick & Morty Fanatic 📺
 - I LOVE MUSIC 🎹
 
