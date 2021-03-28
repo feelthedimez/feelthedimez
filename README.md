@@ -3,6 +3,8 @@
 ## ABOUT ME?
 ### I am a 20 year aspiring Full Stack developer, with professional knowledge in Graphic Design. I'm more into Web Dev & App Dev.
 
+<img align="right" alt="GIF" src="https://github.com/feelthedimez/feelthedimez/blob/main/assets/sliding-chair-dev.gif">
+
 ## Currently Learning:
 - Java OOP with TDD
 - Django Framework
@@ -12,8 +14,6 @@
 - Playing BattleGround Online Game (PUBGM: 🤖 @feelthedimez)
 - Rick & Morty Fanatic 📺
 - I LOVE MUSIC 🎹
-
-<img align="center" alt="GIF" src="https://github.com/feelthedimez/feelthedimez/blob/main/assets/sliding-chair-dev.gif">
 
 ### Development Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=28527a)
