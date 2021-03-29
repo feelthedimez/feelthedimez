@@ -16,9 +16,6 @@
 - Rick & Morty Fanatic 📺
 - I LOVE MUSIC 🎹
 
-### Currently Learning
-![JAVA](https://img.shields.io/badge/JAVA%2-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=28527a)
-
 ### Development Stack
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=28527a)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=28527a)
