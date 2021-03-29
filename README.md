@@ -11,7 +11,7 @@
 - Django Framework
 
 ## What I enjoy
-- Designing something that I'll code (UX/IU ➡️ Development)
+- Designing something that I'll code (UX/UI ➡️ Development)
 - Playing BattleGround Online Games (PUBGM: 🤖 @feelthedimez)
 - Rick & Morty Fanatic 📺
 - I LOVE MUSIC 🎹
