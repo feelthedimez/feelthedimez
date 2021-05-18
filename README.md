@@ -7,8 +7,7 @@
 <img width="500" height="375" align="right" alt="GIF" src="https://github.com/feelthedimez/feelthedimez/blob/main/assets/sliding-chair-dev.gif">
 
 ## Currently Learning:
-- Java OOP with TDD
-- Django Framework
+- JavaScript stack, more specifically, React.js, Node and Typescript
 
 ## What I enjoy
 - Designing something that I'll code (UX/UI ➡️ Development)
